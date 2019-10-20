@@ -6,11 +6,16 @@
 
 This project displays a n x m grid of dwarves trying to collect resources and survive against zombies. You can see what each symbol represents on the top right when you run the program.
 
+
 Somes goals that these dwarves are trying to fufill include:
 
+
 Surivival (touching a zombie induces death; however, dwarves can use lumber to build walls that zombies cannot cross)
+
 Apples (apple trees can be collected in order to gain apples)
+
 Pumpkins (pumpkin zombies will spawn a pumpkin when they die which can be collected to gain points)
+
 Fence (at the very end, the program calculates the biggest conjoined fence)
 
 ## How to run it:
@@ -35,9 +40,13 @@ You can also specify the number of rows/columns the map will have by instead typ
 
 Afterwards, there are several keys you can press to modify the screen:
 
+
 f - fast-foward
+
 p - pause
+
 q - quit
+
 s - step
 
 Sit back and watch the dwarves work!
